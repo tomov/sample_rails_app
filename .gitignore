@@ -18,3 +18,6 @@ doc/
 .DS_Store
 .idea
 .secret
+
+# Ignore stuff I've been playing around with
+example_user.rb
